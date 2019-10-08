@@ -1,1 +1,2 @@
 # deneme
+ekleme yapabiliyor muyuz?
