@@ -1,3 +1,3 @@
 # deneme
 ekleme yapabiliyor muyuz?
-elkleme2.0
+ekleme2.0
